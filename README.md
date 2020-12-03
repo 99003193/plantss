@@ -3,3 +3,4 @@
 ![Valgrind](https://github.com/stepin104344/plantss/workflows/Valgrind/badge.svg)
 ![Unit testing](https://github.com/stepin104344/plantss/workflows/Unit%20testing/badge.svg)
 ![CI](https://github.com/stepin104344/plantss/workflows/CI/badge.svg)
+![C/C++ CI](https://github.com/stepin104344/plantss/workflows/C/C++%20CI/badge.svg)
